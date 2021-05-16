@@ -1,4 +1,7 @@
-### Hi there 👋
+### Assalamu'alaikum! 
+## it's your boy Amir 👋
+![dua](https://pbs.twimg.com/profile_images/496462782762463233/VgZy3qAQ.jpeg)
+
 
 <!--
 **amir-al-razin/amir-al-razin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
