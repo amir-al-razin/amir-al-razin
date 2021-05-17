@@ -1,6 +1,8 @@
  ## <div align="center" > Assalamu'alaikum! </div> 
  # <div align="center" > I'm Amir </div> 
-![dua](https://pbs.twimg.com/profile_images/496462782762463233/VgZy3qAQ.jpeg)
+<img src="https://ikhlas.ca/wp-content/themes/ikhlas_wp/assets/images/jordan_inner_banner.jpg" alt="Al Aqsa" width="100%"/>
+
+
 
 # <p align="center">Skills</p>
 ## Language and frameworks
