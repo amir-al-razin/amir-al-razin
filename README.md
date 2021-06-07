@@ -1,6 +1,6 @@
  ## <div align="center" > Assalamu'alaikum! </div> 
  # <div align="center" > I'm Amir </div> 
-<img src="https://ikhlas.ca/wp-content/themes/ikhlas_wp/assets/images/jordan_inner_banner.jpg" alt="Al Aqsa" width="100%"/>
+<img src="https://user-images.githubusercontent.com/42011920/113520880-3e6e9680-9596-11eb-9351-00d718c26fdc.png" alt="Al Aqsa" width="100%"/>
 
 
 
